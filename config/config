@@ -1,5 +1,5 @@
 app,PistusResa
 lang,en
-db,./data/pistus.db
+db,C:\Users\HOME\Pistus_app\Pistus_app\data\pistus.db
 bundle,./config/messages_bundle_
 auth,yes
